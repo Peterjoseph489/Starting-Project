@@ -20,16 +20,6 @@ const { genTokenLoginS, genTokensignUpS } = require('../middlewares/AuthandAuth/
 
 
 
-
-
-
-
-
-
-
-
-
-
 const newStudent = async (req, res) => {
     try {
         const {
