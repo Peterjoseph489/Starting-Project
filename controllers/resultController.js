@@ -260,9 +260,6 @@ const schoolResults = async (req, res) => {
 
 
 
-
-
-
 module.exports = {
     createResult,
     studentAllResult,
